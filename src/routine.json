@@ -1,0 +1,384 @@
+{
+  "days": {
+    "monday": [
+      {
+        "title": "Lunes: Pectorales, Bíceps y Braquiales"
+      },
+      {
+        "name": "Press de banca con mancuernas en prono",
+        "serie": "4 series de 8-12 repeticiones",
+        "image": "https://www.entrenamientos.com/uploads/exercise/press-pectoral-con-mancuernas-init-pos-7112.png",
+        "already": false
+      },
+      {
+        "name": "Press inclinado con mancuernas en prono",
+        "serie": "4 series de 8-12 repeticiones",
+        "image": "https://i.ytimg.com/vi/FGynaNs-0bU/maxresdefault.jpg",
+        "already": false
+      },
+      {
+        "name": "Press declinado con mancuernas en prono",
+        "serie": "4 series de 8-12 repeticiones",
+        "image": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Declined-Bench-Press_600x600.png",
+        "already": false
+      },
+      {
+        "name": "Aperturas con mancuernas en prono",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://i.ytimg.com/vi/LHkxanQKCZI/maxresdefault.jpg",
+        "already": false
+      },
+      {
+        "name": "Fondos en paralelas",
+        "serie": "4 series al fallo",
+        "image": "https://mundoentrenamiento.com/wp-content/uploads/2023/05/posiciones-en-fondos-en-paralelas.webp",
+        "already": false
+      },
+      {
+        "name": "Curl de bíceps con mancuernas en supino",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://blogladiadoresfit.com/wp-content/uploads/2020/12/Curl-alternado-con-mancuerna.jpg",
+        "already": false
+      },
+      {
+        "name": "Curl de bíceps en martillo",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://eresfitness.com/wp-content/uploads/2019/05/Curl-Martillo-con-mancuernas-1024x576.jpg",
+        "already": false
+      },
+      {
+        "name": "Curl de bíceps en copa",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://img.lovepik.com/element/40021/7866.png_1200.png",
+        "already": false
+      },
+      {
+        "name": "Curl de bíceps en supino con agarre inverso (braquial)",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://eresfitness.com/wp-content/uploads/2019/05/Curl-Martillo-con-mancuernas-1024x576.jpg",
+        "already": false
+      },
+      {
+        "name": "Abdominales en el suelo",
+        "serie": "4 series de 12-20 repeticiones",
+        "image": "https://www.meanmuscles.com/develop/wp-content/uploads/2019/02/floor-crunches.png",
+        "already": false
+      },
+      {
+        "name": "Elevaciones de piernas en el suelo",
+        "serie": "3 series de 12-15 repeticiones",
+        "image": "https://ejerciciosencasa.es/wp-content/uploads/2013/11/Elev-de-piernas.jpg",
+        "already": false
+      }
+    ],
+    "tuesday": [
+      {
+        "title": "Martes: Espalda y Tríceps"
+      },
+      {
+        "name": "Dominadas con agarre supino",
+        "serie": "4 series al fallos",
+        "image": "https://i.pinimg.com/736x/0d/b4/8a/0db48a55ced77d80550e09e77c94e4c1.jpg",
+        "already": false
+      },
+      {
+        "name": "Remo con mancuernas en prono",
+        "serie": "4 series de 8-12 repeticiones",
+        "image": "https://www.onlinepersonaltrainer.es/wp-content/uploads/2015/09/Remo-con-mancuernas..jpg ",
+        "already": false
+      },
+      {
+        "name": "Remo con mancuernas en supino",
+        "serie": "4 series de 8-12 repeticiones",
+        "image": "https://i.ytimg.com/vi/5dcq1U8uB_M/maxresdefault.jpg",
+        "already": false
+      },
+      {
+        "name": "Pullover con mancuerna en prono",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://eresfitness.com/wp-content/uploads/2019/07/Pullover-con-mancuerna.jpg",
+        "already": false
+      },
+      {
+        "name": "Jalón con mancuerna en prono",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://img.lovepik.com/element/40021/7866.png_1200.png",
+        "already": false
+      },
+      {
+        "name": "Extensiones de tríceps con mancuerna en supino",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://nutricion360.es/wp-content/uploads/2019/11/extensiones-triceps-1024x683.jpg",
+        "already": false
+      },
+      {
+        "name": "Fondos en paralelas",
+        "serie": "4 series al fallo",
+        "image": "https://mundoentrenamiento.com/wp-content/uploads/2023/05/posiciones-en-fondos-en-paralelas.webp",
+        "already": false
+      },
+      {
+        "name": "Extensiones de tríceps sobre la cabeza con mancuerna",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://img.lovepik.com/element/40021/7866.png_1200.png",
+        "already": false
+      },
+      {
+        "name": "Abdominales en bicicleta",
+        "serie": "4 series de 15-20 repeticiones por lado",
+        "image": "https://www.performancehealthacademy.com/media/wysiwyg/performance_health_academy/bicycle-crunches.jpg",
+        "already": false
+      },
+      {
+        "name": "Plancha",
+        "serie": "4 series de 30-60 segundos",
+        "image": "https://media.metrolatam.com/2020/10/16/capturadepantall-ee5c943d9e8016ce7ba5578a9cff6511.jpg",
+        "already": false
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "Miércoles: Pectorales, Bíceps, Braquiales y Abdominales"
+      },
+      {
+        "name": "Press de banca con mancuernas en supino",
+        "serie": "4 series de 8-12 repeticiones",
+        "image": "https://i.ytimg.com/vi/rSa-1u_2dW0/maxresdefault.jpg",
+        "already": false
+      },
+      {
+        "name": "Press inclinado con mancuernas en supino",
+        "serie": "4 series de 8-12 repeticiones",
+        "image": "https://i.ytimg.com/vi/JM-EPEQyzUU/maxresdefault.jpg",
+        "already": false
+      },
+      {
+        "name": "Press declinado con mancuernas en supino",
+        "serie": "4 series de 8-12 repeticiones",
+        "image": "https://i.ytimg.com/vi/PI41vHcnNcY/maxresdefault.jpg",
+        "already": false
+      },
+      {
+        "name": "Aperturas con mancuernas en supino",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://i.ytimg.com/vi/LHkxanQKCZI/maxresdefault.jpg",
+        "already": false
+      },
+      {
+        "name": "Curl de bíceps con mancuernas en supino",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://blogladiadoresfit.com/wp-content/uploads/2020/12/Curl-alternado-con-mancuerna.jpg",
+        "already": false
+      },
+      {
+        "name": "Curl de bíceps en martillo",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://eresfitness.com/wp-content/uploads/2019/05/Curl-Martillo-con-mancuernas-1024x576.jpg",
+        "already": false
+      },
+      {
+        "name": "Curl de bíceps en copa",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://img.lovepik.com/element/40021/7866.png_1200.png",
+        "already": false
+      },
+      {
+        "name": "Curl de bíceps en supino con agarre inverso (braquial)",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://eresfitness.com/wp-content/uploads/2019/05/Curl-Martillo-con-mancuernas-1024x576.jpg",
+        "already": false
+      },
+      {
+        "name": "Plancha",
+        "serie": "4 series de 30-60 segundos",
+        "image": "https://media.metrolatam.com/2020/10/16/capturadepantall-ee5c943d9e8016ce7ba5578a9cff6511.jpg",
+        "already": false
+      },
+      {
+        "name": "Russian Twists con mancuerna",
+        "serie": "4 series de 15-20 repeticiones por lado",
+        "image": "https://media1.popsugar-assets.com/files/thumbor/0G4EhOZMt3oGWTn7qK2fnoUN7a0/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2014/05/27/021/n/1922729/f3bc2e924c937923_russian-twist/i/Seated-Russian-Twist.jpg",
+        "already": false
+      },
+      {
+        "name": "Abdominales en el suelo",
+        "serie": "4 series de 12-20 repeticiones",
+        "image": "https://www.meanmuscles.com/develop/wp-content/uploads/2019/02/floor-crunches.png",
+        "already": false
+      }
+    ],
+    "thursday": [
+      {
+        "title": "Jueves: Espalda y Abdominales"
+      },
+      {
+        "name": "Dominadas con agarre neutral",
+        "serie": "4 series al fallos",
+        "image": "https://static.strengthlevel.com/images/illustrations/neutral-grip-pull-ups-1000x1000.jpg",
+        "already": false
+      },
+      {
+        "name": "Remo con mancuernas en prono",
+        "serie": "4 series de 8-12 repeticiones",
+        "image": "https://www.onlinepersonaltrainer.es/wp-content/uploads/2015/09/Remo-con-mancuernas..jpg",
+        "already": false
+      },
+      {
+        "name": "Remo con mancuernas en supino",
+        "serie": "4 series de 8-12 repeticiones",
+        "image": "https://i.ytimg.com/vi/5dcq1U8uB_M/maxresdefault.jpg",
+        "already": false
+      },
+      {
+        "name": "Jalón con mancuerna en prono",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://img.lovepik.com/element/40021/7866.png_1200.png",
+        "already": false
+      },
+      {
+        "name": "Pullover con mancuerna en prono",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://eresfitness.com/wp-content/uploads/2019/07/Pullover-con-mancuerna.jpg",
+        "already": false
+      },
+      {
+        "name": "Elevaciones de piernas en el suelo",
+        "serie": "3 series de 12-15 repeticiones",
+        "image": "https://ejerciciosencasa.es/wp-content/uploads/2013/11/Elev-de-piernas.jpg",
+        "already": false
+      },
+      {
+        "name": "Abdominales en bicicleta",
+        "serie": "4 series de 15-20 repeticiones por lado",
+        "image": "https://www.performancehealthacademy.com/media/wysiwyg/performance_health_academy/bicycle-crunches.jpg",
+        "already": false
+      },
+      {
+        "name": "Curl de bíceps en supino con agarre inverso (braquial)",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://eresfitness.com/wp-content/uploads/2019/05/Curl-Martillo-con-mancuernas-1024x576.jpg",
+        "already": false
+      },
+      {
+        "name": "Plancha lateral en trx",
+        "serie": "4 series de 30-60 segundos ambos lados",
+        "image": "https://fitness-guia.es/wp-content/uploads/2017/07/Plancha-lateral-con-trx-%E2%80%93-Side-Plank.jpg",
+        "already": false
+      },
+      {
+        "name": "Plancha",
+        "serie": "4 series de 30-60 segundos",
+        "image": "https://media.metrolatam.com/2020/10/16/capturadepantall-ee5c943d9e8016ce7ba5578a9cff6511.jpg",
+        "already": false
+      }
+    ],
+    "friday": [
+      {
+        "title": "Viernes: Pectorales, Bíceps, Braquiales y Abdominales"
+      },
+      {
+        "name": "Press inclinado con mancuernas en supino",
+        "serie": "4 series de 8-12 repeticiones",
+        "image": "https://i.ytimg.com/vi/JM-EPEQyzUU/maxresdefault.jpg",
+        "already": false
+      },
+      {
+        "name": "Press declinado con mancuernas en supino",
+        "serie": "4 series de 8-12 repeticiones",
+        "image": "https://i.ytimg.com/vi/PI41vHcnNcY/maxresdefault.jpg",
+        "already": false
+      },
+      {
+        "name": "Aperturas con mancuernas en supino",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://i.ytimg.com/vi/LHkxanQKCZI/maxresdefault.jpg",
+        "already": false
+      },
+      {
+        "name": "Curl de bíceps con mancuernas en supino",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://blogladiadoresfit.com/wp-content/uploads/2020/12/Curl-alternado-con-mancuerna.jpg",
+        "already": false
+      },
+      {
+        "name": "Curl de bíceps en martillo",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://eresfitness.com/wp-content/uploads/2019/05/Curl-Martillo-con-mancuernas-1024x576.jpg",
+        "already": false
+      },
+      {
+        "name": "Curl de bíceps en copa",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://img.lovepik.com/element/40021/7866.png_1200.png",
+        "already": false
+      },
+      {
+        "name": "Curl de bíceps en supino con agarre inverso (braquial)",
+        "serie": "4 series de 12-15 repeticiones",
+        "image": "https://eresfitness.com/wp-content/uploads/2019/05/Curl-Martillo-con-mancuernas-1024x576.jpg",
+        "already": false
+      },
+      {
+        "name": "Burpees intermedios",
+        "serie": "3 series de 10-15 repeticiones",
+        "image": "https://www.lavidalucida.com/wp-content/uploads/2021/09/como-hacer-burpees_opt.jpg",
+        "already": false
+      },
+      {
+        "name": "Abdominales en el suelo",
+        "serie": "4 series de 12-20 repeticiones",
+        "image": "https://www.meanmuscles.com/develop/wp-content/uploads/2019/02/floor-crunches.png",
+        "already": false
+      },
+      {
+        "name": "Elevaciones de piernas en el suelo",
+        "serie": "3 series de 12-15 repeticiones",
+        "image": "https://ejerciciosencasa.es/wp-content/uploads/2013/11/Elev-de-piernas.jpg",
+        "already": false
+      },
+      {
+        "name": "Russian Twists con mancuerna",
+        "serie": "4 series de 15-20 repeticiones por lado",
+        "image": "https://media1.popsugar-assets.com/files/thumbor/0G4EhOZMt3oGWTn7qK2fnoUN7a0/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2014/05/27/021/n/1922729/f3bc2e924c937923_russian-twist/i/Seated-Russian-Twist.jpg",
+        "already": false
+      }
+    ],
+    "saturday": [
+      {
+        "title": "Sábado: Bicicleta más de 30 kilometros"
+      },
+      {
+        "name": "Opción 1",
+        "serie": "Ir al salto del tequendamita",
+        "image": "https://i.pinimg.com/originals/df/9a/fc/df9afc6a74bbba3707492f1f18aa87f9.jpg",
+        "already": false
+      },
+      {
+        "name": "Opción 2",
+        "serie": "Ir al Guarne",
+        "image": "https://3.bp.blogspot.com/_vTuVvGUCWbE/SuJDzwFPKOI/AAAAAAAAAAU/kAWgcpt6Wgg/w1200-h630-p-k-no-nu/GUARNE_AEREO_thumb_1.jpg",
+        "already": false
+      },
+      {
+        "name": "Opción 3",
+        "serie": "Darle la vuelta a Rionegro",
+        "image": "https://orientese.co/wp-content/uploads/2017/03/panoramica-Rionegro-e1508008438639.jpg",
+        "already": false
+      }
+    ],
+    "sunday": [
+      {
+        "title": "Domingo: día de descanso"
+      }
+    ]
+  },
+  "dias": {
+    "monday": "Lunes",
+    "tuesday": "Martes",
+    "wednesday": "Miércoles",
+    "thursday": "Jueves",
+    "friday": "Viernes",
+    "saturday": "Sábado",
+    "sunday": "Domingo"
+  }
+}
