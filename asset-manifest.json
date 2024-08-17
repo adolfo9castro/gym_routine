@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gym_routine/static/css/main.e6c13ad2.css",
-    "main.js": "/gym_routine/static/js/main.aaf45e63.js",
+    "main.js": "/gym_routine/static/js/main.5c33f9bd.js",
     "static/js/453.2afd1232.chunk.js": "/gym_routine/static/js/453.2afd1232.chunk.js",
     "index.html": "/gym_routine/index.html",
     "main.e6c13ad2.css.map": "/gym_routine/static/css/main.e6c13ad2.css.map",
-    "main.aaf45e63.js.map": "/gym_routine/static/js/main.aaf45e63.js.map",
+    "main.5c33f9bd.js.map": "/gym_routine/static/js/main.5c33f9bd.js.map",
     "453.2afd1232.chunk.js.map": "/gym_routine/static/js/453.2afd1232.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.aaf45e63.js"
+    "static/js/main.5c33f9bd.js"
   ]
 }
