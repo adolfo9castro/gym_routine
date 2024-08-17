@@ -73,7 +73,7 @@ export default function BasicCard() {
                     ) : (
                         <Grid item key={index}>
                             <Item>
-                                <Card sx={{minWidth: 400, minHeight: 500, maxWidth: 400, maxHeight: 500}}>
+                                <Card sx={{minWidth: 350, minHeight: 500, maxWidth: 350, maxHeight: 500}}>
                                     <CardMedia
                                         sx={{height: 300}}
                                         image={day.image}
