@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adolfo9castro/gym_routine/static/css/main.e6c13ad2.css",
+    "main.js": "/adolfo9castro/gym_routine/static/js/main.5656edd2.js",
+    "static/js/453.2afd1232.chunk.js": "/adolfo9castro/gym_routine/static/js/453.2afd1232.chunk.js",
+    "index.html": "/adolfo9castro/gym_routine/index.html",
+    "main.e6c13ad2.css.map": "/adolfo9castro/gym_routine/static/css/main.e6c13ad2.css.map",
+    "main.5656edd2.js.map": "/adolfo9castro/gym_routine/static/js/main.5656edd2.js.map",
+    "453.2afd1232.chunk.js.map": "/adolfo9castro/gym_routine/static/js/453.2afd1232.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5656edd2.js"
+  ]
+}
